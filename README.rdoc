@@ -1,6 +1,6 @@
 Read for the submission information -> https://github.com/aspyker/Cloud-Prize/blob/master/Submission.md
 
-http://github.com/acmeair/acmeair-webcontent/blob/master/images/AcmeAir.png
+(http://raw.github.com/acmeair/acmeair-webcontent/master/images/acmeAirplane.png)
 
 http://github.com/Netflix/Cloud-Prize/wiki/images/950x250_BNR_CloudPrize_Attend_v3.jpg
 
