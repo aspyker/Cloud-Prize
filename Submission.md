@@ -4,19 +4,19 @@ Edit this page to describe your Submission.
 
 Best Example Application Mash-Up
 
-Acme Air / NetflixOSS an open source mobile and cloud workload that has
+Acme Air / NetflixOSS is an open source mobile and cloud workload that has
 been proven to run at Web Scale (50,000 requests/sec) modified to be a
 sample and benchmark for the NetflixOSS platform.
 
 ## Describe your Submission
 
-The Acme Air NetflixOSS application changed to use Hystrix, Erueka,
+The Acme Air NetflixOSS application was changed to use Hystrix, Erueka,
 Karyon/Governator, Ribbon and Asgard.  The new implementation has been
 run at a current level of 13,000 (peak) req/sec performance and scale:
 
 http://ispyker.blogspot.com/2013/07/acme-air-goes-to-streaming-movies.html
 
-Also to make it easier for people to understand this application and the
+Also to make it easier for people to understand this application and
 how to get a basic end to end NetflixOSS platform up and running on EC2, I
 have created AMI's for not only the applicatio, but also the NetflixOSS
 servers.  Here are instructions that allow people to repeat the setup
