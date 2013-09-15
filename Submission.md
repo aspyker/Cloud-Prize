@@ -26,5 +26,5 @@ http://ispyker.blogspot.com/2013/09/acme-air-netflixoss-amis-for-your.html
 
 ## Provide Links to Github Repo's for your Submission
 
-https://github.com/aspyker/acmeair-netflix
-https://github.com/aspyker/acmeair-netflix/wiki
+* https://github.com/aspyker/acmeair-netflix
+* https://github.com/aspyker/acmeair-netflix/wiki
